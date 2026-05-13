@@ -16,7 +16,7 @@ Phase 2 - HyperTuning of 5 different type of model and picking the one with best
 5. LinearSVC
 Our best Model was RandomForest
 
-Phase 3 - The Final Generating a Python Script to run the code
+Phase 3 - Then Final Generating a Python Script to run the code
 1. First performing Phase 1 EDA on Input Data
 2. The using the best model to predict the sentiment of the review
 Best Model - RandomForest
