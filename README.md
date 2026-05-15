@@ -20,3 +20,4 @@ Phase 3 - Then Final Generating a Python Script to run the code
 1. First performing Phase 1 EDA on Input Data
 2. The using the best model to predict the sentiment of the review
 Best Model - RandomForest
+The best model file was large areound 168 MB so We have added it using git lfs(Large File Storage)
